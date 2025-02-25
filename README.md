@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Tree
 |  |
@@ -46,4 +47,16 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
