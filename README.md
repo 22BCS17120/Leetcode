@@ -13,6 +13,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/22BCS17120/Leetcode/tree/master/0020-valid-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/22BCS17120/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/22BCS17120/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/22BCS17120/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
