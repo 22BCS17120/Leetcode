@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/22BCS17120/Leetcode/tree/master/0002-add-two-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22BCS17120/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/22BCS17120/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/22BCS17120/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
