@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/22BCS17120/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/22BCS17120/Leetcode/tree/master/0013-roman-to-integer) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/22BCS17120/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -12,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/22BCS17120/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/22BCS17120/Leetcode/tree/master/0020-valid-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/22BCS17120/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/22BCS17120/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/22BCS17120/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/22BCS17120/Leetcode/tree/master/0013-roman-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/22BCS17120/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/22BCS17120/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
