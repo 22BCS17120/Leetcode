@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/22BCS17120/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/22BCS17120/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/22BCS17120/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/22BCS17120/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/22BCS17120/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -117,6 +119,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/22BCS17120/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
