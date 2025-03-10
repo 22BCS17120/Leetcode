@@ -11,6 +11,7 @@
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/22BCS17120/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/22BCS17120/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/22BCS17120/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [1160-letter-tile-possibilities](https://github.com/22BCS17120/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/22BCS17120/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/22BCS17120/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/22BCS17120/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/22BCS17120/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
