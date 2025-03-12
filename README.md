@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/22BCS17120/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/22BCS17120/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -159,4 +160,12 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/22BCS17120/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/22BCS17120/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/22BCS17120/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/22BCS17120/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
