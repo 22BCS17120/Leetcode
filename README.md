@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/22BCS17120/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/22BCS17120/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22BCS17120/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/22BCS17120/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/22BCS17120/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/22BCS17120/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/22BCS17120/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/22BCS17120/Leetcode/tree/master/3643-zero-array-transformation-ii) |
