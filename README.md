@@ -45,6 +45,7 @@
 | [0155-min-stack](https://github.com/22BCS17120/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/22BCS17120/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/22BCS17120/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/22BCS17120/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Array
 |  |
@@ -52,6 +53,7 @@
 | [0001-two-sum](https://github.com/22BCS17120/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22BCS17120/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1552-build-an-array-with-stack-operations](https://github.com/22BCS17120/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -78,6 +80,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/22BCS17120/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/22BCS17120/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22BCS17120/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/22BCS17120/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/22BCS17120/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22BCS17120/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +180,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/22BCS17120/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22BCS17120/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/22BCS17120/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/22BCS17120/Leetcode/tree/master/2690-house-robber-iv) |
@@ -198,4 +203,8 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/22BCS17120/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/22BCS17120/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/22BCS17120/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
