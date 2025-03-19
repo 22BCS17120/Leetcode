@@ -45,6 +45,7 @@
 | [0155-min-stack](https://github.com/22BCS17120/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/22BCS17120/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/22BCS17120/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1552-build-an-array-with-stack-operations](https://github.com/22BCS17120/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22BCS17120/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1552-build-an-array-with-stack-operations](https://github.com/22BCS17120/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22BCS17120/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -131,6 +133,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/22BCS17120/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22BCS17120/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Linked List
 |  |
