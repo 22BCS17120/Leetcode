@@ -70,6 +70,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/22BCS17120/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/22BCS17120/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/22BCS17120/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/22BCS17120/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Tree
 |  |
 | ------- |
@@ -225,4 +226,8 @@
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/22BCS17120/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Sorting
+|  |
+| ------- |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/22BCS17120/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
