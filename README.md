@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/22BCS17120/Leetcode/tree/master/0013-roman-to-integer) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/22BCS17120/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22BCS17120/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/22BCS17120/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/22BCS17120/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -85,6 +86,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/22BCS17120/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22BCS17120/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22BCS17120/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/22BCS17120/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/22BCS17120/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22BCS17120/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22BCS17120/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/22BCS17120/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -111,6 +114,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/22BCS17120/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22BCS17120/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22BCS17120/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +168,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/22BCS17120/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/22BCS17120/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/22BCS17120/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/22BCS17120/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/22BCS17120/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
