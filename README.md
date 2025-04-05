@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/22BCS17120/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/22BCS17120/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Counting
 |  |
@@ -60,6 +61,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22BCS17120/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1552-build-an-array-with-stack-operations](https://github.com/22BCS17120/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/22BCS17120/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/22BCS17120/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22BCS17120/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -123,6 +125,7 @@
 | [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/22BCS17120/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/22BCS17120/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/22BCS17120/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/22BCS17120/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/22BCS17120/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -211,6 +214,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/22BCS17120/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22BCS17120/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/22BCS17120/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/22BCS17120/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -235,4 +239,12 @@
 |  |
 | ------- |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/22BCS17120/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/22BCS17120/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/22BCS17120/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
