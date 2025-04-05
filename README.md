@@ -64,6 +64,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/22BCS17120/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/22BCS17120/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/22BCS17120/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/22BCS17120/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/22BCS17120/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/22BCS17120/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/22BCS17120/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -135,6 +136,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/22BCS17120/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/22BCS17120/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Prefix Sum
 |  |
 | ------- |
