@@ -71,6 +71,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/22BCS17120/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/22BCS17120/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/22BCS17120/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/22BCS17120/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/22BCS17120/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/22BCS17120/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/22BCS17120/Leetcode/tree/master/3643-zero-array-transformation-ii) |
