@@ -57,6 +57,7 @@
 | [0001-two-sum](https://github.com/22BCS17120/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/22BCS17120/Leetcode/tree/master/0048-rotate-image) |
 | [0368-largest-divisible-subset](https://github.com/22BCS17120/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/22BCS17120/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/22BCS17120/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/22BCS17120/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/22BCS17120/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/22BCS17120/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/22BCS17120/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/22BCS17120/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/22BCS17120/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
